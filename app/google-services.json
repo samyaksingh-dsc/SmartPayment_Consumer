@@ -1,0 +1,249 @@
+{
+  "project_info": {
+    "project_number": "475269377814",
+    "firebase_url": "https://healthify-datseacorp.firebaseio.com",
+    "project_id": "healthify-datseacorp",
+    "storage_bucket": "healthify-datseacorp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:5c076da99ae93105",
+        "android_client_info": {
+          "package_name": "com.datsea.pos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-tm1fhi10nefn5lsol0gqupkfh01hnq0i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datsea.pos",
+            "certificate_hash": "16244fba4356443e48cbd9f2f10c8a29aa23ce4d"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:9a5e0a483c9c97ce",
+        "android_client_info": {
+          "package_name": "com.datsea.posseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-b5f2eh15vbjq5p1vtba01n56e6fhru0r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datsea.posseller",
+            "certificate_hash": "16244fba4356443e48cbd9f2f10c8a29aa23ce4d"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:45a520ded1a0e86858aa37",
+        "android_client_info": {
+          "package_name": "com.datsea.smartpos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-483inb6r9042poura59kdbi25l7n5nnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datsea.smartpos",
+            "certificate_hash": "541c9f633a976703e3c227082f6c0591490a25cc"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:2de557d5987ef4d258aa37",
+        "android_client_info": {
+          "package_name": "com.datsea.smartposseller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-4sdh9j86f3evtgmgpd8eraod1jn1lbs4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datsea.smartposseller",
+            "certificate_hash": "abbb106bea5c0e08591d3e5af5a5c45419ae5c2b"
+          }
+        },
+        {
+          "client_id": "475269377814-oq174ocqlarisaq2ht6vuaplu71ao3fj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datsea.smartposseller",
+            "certificate_hash": "541c9f633a976703e3c227082f6c0591490a25cc"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:4dd84d01ef56fa48",
+        "android_client_info": {
+          "package_name": "com.datseacorporation.healthify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-4kalb0otgnjk6vo5pa8165s1ojilj47n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.datseacorporation.healthify",
+            "certificate_hash": "7651483248dfaf51d0741efafd38fdc56395fa62"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:475269377814:android:1bd193d3b874604458aa37",
+        "android_client_info": {
+          "package_name": "com.tetraval.posconsumer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "475269377814-m92n7pfflasgd0kuf5tocla77g7osgv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.posconsumer",
+            "certificate_hash": "abbb106bea5c0e08591d3e5af5a5c45419ae5c2b"
+          }
+        },
+        {
+          "client_id": "475269377814-hh3sgs6qqcnaiv6oc24hge1mco6to62f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tetraval.posconsumer",
+            "certificate_hash": "cba50609f909a73615fec2c99b47b4751394d4a2"
+          }
+        },
+        {
+          "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlC1J_9t3KnpFTQ6sQVWhRHDnPwLMdGUY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "475269377814-794m45fmgvoenecspe1cd43c4k265pjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
